@@ -7,6 +7,33 @@
 
 
 # 课程内容
+## 第0讲 课程介绍（2025-02-21）
+**课件下载**:[2025-pub-0课程介绍.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2025-pub-0%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D.pdf)
+## 第1讲 知识图谱概论 （2025-02-21）  
+1.1 认知智能的知识图谱视角浅析
++ 知识视角的认知智能
++ 知识图谱本质
++ 知识图谱的演化和形成过程  
++ 知识图谱 VS 深度学习  
++ 知识图谱 VS 传统知识库 VS 数据库 
++ 知识图谱应用场景
++ 知识图谱本质和核心价值
+
+1.2 知识图谱的技术体系剖析
++ 知识抽取
++ 知识融合
++ 知识表示学习
++ 知识推理
++ 知识存储
+
+1.3 知识图谱的瓶颈、问题和挑战的思考
++ 知识获取挑战
++ 知识质量挑战
++ 知识的智能应用挑战
+
+**课件下载**:
+[2025-partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2025-pub-1%20%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1-%E7%90%86%E8%AE%BA-%E6%8A%80%E6%9C%AF-%E5%AE%9E%E8%B7%B5%E5%92%8C%E6%8C%91%E6%88%98A.pdf)   
+[2025-partB](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2025-pub-1%20%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1-%E7%90%86%E8%AE%BA-%E6%8A%80%E6%9C%AF-%E5%AE%9E%E8%B7%B5%E5%92%8C%E6%8C%91%E6%88%98B.pdf)   
 ## 第0讲 课程介绍 （2024-02-22）
 **课件下载**:[2024-pub-0课程介绍.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-0课程介绍.pdf)   
 <!--
