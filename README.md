@@ -9,7 +9,7 @@
 # 课程内容
 ## 第0讲 课程介绍（2025-02-21）
 **课件下载**:[2025-pub-0课程介绍.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2025-pub-0%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D.pdf)
-## 第1讲 知识图谱概论 （2025-02-21，02-28）  
+## 第1讲 知识图谱概论 （2025-02-21，02-28，03-07）  
 1.1 认知智能的知识图谱视角浅析
 + 知识视角的认知智能
 + 知识图谱本质
@@ -34,6 +34,20 @@
 **课件下载**:
 [2025-partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2025-pub-1%20%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1-%E7%90%86%E8%AE%BA-%E6%8A%80%E6%9C%AF-%E5%AE%9E%E8%B7%B5%E5%92%8C%E6%8C%91%E6%88%98A.pdf)   
 [2025-partB](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2025-pub-1%20%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1-%E7%90%86%E8%AE%BA-%E6%8A%80%E6%9C%AF-%E5%AE%9E%E8%B7%B5%E5%92%8C%E6%8C%91%E6%88%98B.pdf)   
+## 第2讲 知识表示 (2025-03-07) 
+2.1 知识表示概念  
+2.2 知识表示方法  
++ 语义网络  
++ 产生式系统      
++ 框架系统  
++ 概念图  
++ 形式概念分析  
++ 描述逻辑  
++ 本体  
++ 本体语言  
++ 知识图谱表示学习   
+
+**课件下载**:[2025-pub-2知识表示.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-2知识表示.pdf) 
 ## 第0讲 课程介绍 （2024-02-22）
 **课件下载**:[2024-pub-0课程介绍.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-0课程介绍.pdf)   
 <!--
