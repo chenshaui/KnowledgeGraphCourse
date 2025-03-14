@@ -48,6 +48,31 @@
 + 知识图谱表示学习   
 
 **课件下载**:[2025-pub-2知识表示.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-2知识表示.pdf) 
+## 第3讲 知识建模 （2025-03-14）
+3.1 本体  
+3.2 知识建模方法  
++ 本体工程   
++ 本体学习  
++ 知识建模工具  
++ 知识建模实践  
+
+**课件下载**:[2025-pub-3知识建模.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-3知识建模.pdf)  
+<!--
+**课件下载百度云链接**:[pub-3知识建模.pdf](https://pan.baidu.com/s/1kf6pEiattmsvC7kMAScfkw) 提取码:kgkg  
+-->
+
+## 第4讲 知识抽取基础:问题和方法（2025-03-14）
+4.1 问题分析  
++ 知识抽取场景  
++ 知识抽取挑战  
+
+4.2 知识抽取场景和方法    
++ 面向结构化数据的知识抽取  
++ 面向半结构化数据的知识抽取
++ 面向无结构化数据的知识抽取  
+
+**课件下载**:[2025-pub-4知识抽取问题与方法.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024pub-4知识抽取问题与方法.pdf)    
+
 ## 第0讲 课程介绍 （2024-02-22）
 **课件下载**:[2024-pub-0课程介绍.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-0课程介绍.pdf)   
 <!--
