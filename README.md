@@ -72,7 +72,33 @@
 + 面向无结构化数据的知识抽取  
 
 **课件下载**:[2025-pub-4知识抽取问题与方法.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024pub-4知识抽取问题与方法.pdf)    
+## 第5讲 知识抽取:实体识别（2025-03-21）
+5.1 实体识别基本概念  
+5.2 基于规则和词典的实体识别方法  
+5.3 基于机器学习的实体识别方法  
+5.4 基于深度学习的实体识别方法  
+5.5 基于半监督学习的实体识别方法  
+5.6 基于迁移学习的实体识别方法  
+5.7 基于预训练的实体识别方法  
+5.8 实体识别研究前沿进展  
 
+
+**课件下载**:[2025-pub-5知识抽取-实体识别.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-5知识抽取-实体识别.pdf)  
+**课件下载**:[2025-pub-5.1实体识别研究前沿进展2023.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-5.1实体识别研究前沿进展2023.pdf)  
+
+## 第6讲 知识抽取:关系抽取（2025-03-28）
+6.1 关系抽取简介   
+6.2 语义关系  
+6.3 关系抽取中的特征  
+6.4 关系抽取数据集  
+6.5 基于模板的关系抽取  
+6.6 有监督实体关系抽取   
+6.7 弱监督实体关系抽取    
+6.8 远程监督实体关系抽取    
+6.9 无监督实体关系抽取    
+6.10 基于深度学习/强化学习的关系抽取
+
+**课件下载**:[2025-pub-6知识抽取-关系抽取.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-6知识抽取-关系抽取.pdf)  
 ## 第0讲 课程介绍 （2024-02-22）
 **课件下载**:[2024-pub-0课程介绍.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-0课程介绍.pdf)   
 <!--
