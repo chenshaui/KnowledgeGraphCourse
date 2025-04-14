@@ -99,6 +99,22 @@
 6.10 基于深度学习/强化学习的关系抽取
 
 **课件下载**:[2025-pub-6知识抽取-关系抽取.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2025-pub-6%E7%9F%A5%E8%AF%86%E6%8A%BD%E5%8F%96-%E5%85%B3%E7%B3%BB%E6%8A%BD%E5%8F%96.pdf)  
+
+## 第7讲 知识抽取:事件抽取（2025-04-11）
+7.1 事件抽取基本概念  
+7.2 事件抽取方法
++ 基于规则和模板的事件抽取方法  
++ 基于机器学习的事件抽取方法  
++ 基于深度学习的事件抽取方法  
++ 基于知识库的事件抽取方法  
+
+7.3 金融领域事件抽取系统实现  
+7.4 事理图谱的研究与应用  
+7.5 从经典到大模型的范式
+
+**课件下载**:[2025-pub-7知识抽取-事件抽取.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-7知识抽取-事件抽取.pdf)   
+**课件下载**:[2025-pub-7-1 知识抽取-事件抽取.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2025-pub-7-1%20%E7%9F%A5%E8%AF%86%E6%8A%BD%E5%8F%96-%E4%BB%8E%E7%BB%8F%E5%85%B8%E5%88%B0%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E8%8C%83%E5%BC%8F(20231201-%E5%8D%8E%E4%B8%BA).pdf)  
+
 ## 第0讲 课程介绍 （2024-02-22）
 **课件下载**:[2024-pub-0课程介绍.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-0课程介绍.pdf)   
 <!--
