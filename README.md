@@ -115,6 +115,39 @@
 **课件下载**:[2025-pub-7知识抽取-事件抽取.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-7知识抽取-事件抽取.pdf)   
 **课件下载**:[2025-pub-7-1 知识抽取-事件抽取.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2025-pub-7-1%20%E7%9F%A5%E8%AF%86%E6%8A%BD%E5%8F%96-%E4%BB%8E%E7%BB%8F%E5%85%B8%E5%88%B0%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E8%8C%83%E5%BC%8F(20231201-%E5%8D%8E%E4%B8%BA).pdf)  
 
+## 第8讲 知识融合（2025-04-18）
+8.1 知识异构  
+8.2 本体匹配  
+8.3 匹配抽取和匹配调谐  
+8.4 实例匹配  
+8.5 大规模实体匹配处理  
+8.6 知识融合应用实例  
+
+**课件下载**:[2025-pub-9 知识图谱与大模型前沿进展.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2025-pub-9%20%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%89%8D%E6%B2%BF%E8%BF%9B%E5%B1%95.pdf)   
+
+## 第9讲 知识图谱与大语言模型前沿进展（2025-04-25）
+9.1  KG for LLM
++ Mitigating Large Language Model Hallucinations via Autonomous Knowledge Graph-Based Retrofitting
++ FactCHD: Benchmarking Fact-Conflicting Hallucination Detection
++ OneKE
++ Graph Retrieval-Augmented Generation: A Survey
++ Knowledge Graph-Enhanced Large Language Models via Path Selection
++ Knowledge Graph Enhanced Large Language Model Editing
++ Enhancing Large Language Models with Knowledge Graphs for Robust Question Answering
++ OntoFact: Unveiling Fantastic Fact-Skeleton of LLMs via Ontology-Driven Reinforcement Learning
++ Unveiling factuality and injecting knowledge for LLMs via reinforcement learning and data proportion
+9.2  LLM for KG
++ Unifying Large Language Models and Knowledge Graphs: A Roadmap
++ ConsistNER: Towards Instructive NER Demonstrations for LLMs with the Consistency of Ontology and Context
++ InstructNER: Boosting Textural NER with Synthetic Image and Instructive Alignment
++ Boosting LLMs With Ontology-Aware Prompt For NER Data Augmentation
++ Multi-perspective Improvement of Knowledge Graph Completion with Large Language Models
++ KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models
+
+**课件下载**:[2025-pub-8知识融合.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-8知识融合.pdf)   
+
+
+
 ## 第0讲 课程介绍 （2024-02-22）
 **课件下载**:[2024-pub-0课程介绍.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-0课程介绍.pdf)   
 <!--
