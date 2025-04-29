@@ -136,6 +136,7 @@
 + Enhancing Large Language Models with Knowledge Graphs for Robust Question Answering
 + OntoFact: Unveiling Fantastic Fact-Skeleton of LLMs via Ontology-Driven Reinforcement Learning
 + Unveiling factuality and injecting knowledge for LLMs via reinforcement learning and data proportion
+  
 9.2  LLM for KG
 + Unifying Large Language Models and Knowledge Graphs: A Roadmap
 + ConsistNER: Towards Instructive NER Demonstrations for LLMs with the Consistency of Ontology and Context
