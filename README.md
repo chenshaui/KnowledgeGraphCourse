@@ -123,7 +123,7 @@
 8.5 大规模实体匹配处理  
 8.6 知识融合应用实例  
 
-**课件下载**:[2025-pub-9 知识图谱与大模型前沿进展.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2025-pub-9%20%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%89%8D%E6%B2%BF%E8%BF%9B%E5%B1%95.pdf)   
+**课件下载**:[2025-pub-8 知识融合.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-8知识融合.pdf)   
 
 ## 第9讲 知识图谱与大语言模型前沿进展（2025-04-25）
 9.1  KG for LLM
@@ -145,7 +145,7 @@
 + Multi-perspective Improvement of Knowledge Graph Completion with Large Language Models
 + KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models
 
-**课件下载**:[2025-pub-8知识融合.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2024-pub-8知识融合.pdf)   
+**课件下载**:[2025-pub-9 知识图谱与大模型前沿进展.pdf](https://github.com/npubird/KnowledgeGraphCourse/blob/master/2025-pub-9%20%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%89%8D%E6%B2%BF%E8%BF%9B%E5%B1%95.pdf)   
 
 
 
